@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/build/intermediates/res/merged/debug/layout/center_frame.xml",
+        "source": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/src/main/res/layout/center_frame.xml"
+    },
+    {
+        "merged": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/build/intermediates/res/merged/debug/layout/line.xml",
+        "source": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/src/main/res/layout/line.xml"
+    },
+    {
+        "merged": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/build/intermediates/res/merged/debug/layout/page1.xml",
+        "source": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/src/main/res/layout/page1.xml"
+    },
+    {
+        "merged": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/build/intermediates/res/merged/debug/layout/right.xml",
+        "source": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/src/main/res/layout/right.xml"
+    },
+    {
+        "merged": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/build/intermediates/res/merged/debug/layout/right_frame.xml",
+        "source": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/src/main/res/layout/right_frame.xml"
+    },
+    {
+        "merged": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/build/intermediates/res/merged/debug/layout/left.xml",
+        "source": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/src/main/res/layout/left.xml"
+    },
+    {
+        "merged": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/build/intermediates/res/merged/debug/layout/view_pager.xml",
+        "source": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/src/main/res/layout/view_pager.xml"
+    },
+    {
+        "merged": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/build/intermediates/res/merged/debug/layout/left_frame.xml",
+        "source": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/src/main/res/layout/left_frame.xml"
+    },
+    {
+        "merged": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/build/intermediates/res/merged/debug/layout/page2.xml",
+        "source": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/src/main/res/layout/page2.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/head_default.jpg",
+        "source": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/src/main/res/drawable-hdpi/head_default.jpg"
+    },
+    {
+        "merged": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shade_bg.9.png",
+        "source": "/home/chen/AndroidStudioProjects/SlidingMenu-master/app/src/main/res/drawable-hdpi/shade_bg.9.png"
+    }
+]
